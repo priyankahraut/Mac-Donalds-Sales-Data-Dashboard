@@ -7,10 +7,6 @@ This project showcases an interactive Sales MIS Dashboard built using Microsoft 
 
 The dashboard provides a visual overview of key business metrics, helping users understand sales trends, monitor performance, and gain insights into different markets.
 
-## Dashboard Preview
-
-![McDonald's Sales Dashboard](dashboard.png)
-
 ## Key Performance Indicators (KPIs)
 - **Total Sales:** $2,544
 - **Total Profit:** $890
