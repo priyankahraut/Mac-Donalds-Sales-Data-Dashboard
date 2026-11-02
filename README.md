@@ -1,6 +1,6 @@
 # McDonald's Sales MIS Dashboard
 
-<img width="1248" height="585" alt="image" src="https://github.com/user-attachments/assets/828c4512-cd18-46c8-821a-e2214be608cb" />
+![Sales Dashboard](macddashboard.png)
 
 ## Project Overview
 This project showcases an interactive Sales MIS Dashboard built using Microsoft Excel to analyze McDonald's sales performance, profitability, and customer satisfaction.
